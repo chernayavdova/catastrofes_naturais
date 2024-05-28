@@ -6,7 +6,7 @@ Estarei utilizando Python e Power BI.
 
 ### Motivo da Análise
 
-Com a grande crescente em desastres naturais em todo o mundo, gostariamos de prever a frequencia de eventos principais (chuva e tempestade) de 2024 para frente e avaliar se existe algum padrao de tempo ou aumento de desastres.
+Com a grande crescente em desastres naturais em todo o mundo, gostariamos de prever a frequencia de eventos principais (tempestade e enchente) de 2024 para frente e avaliar se existe algum padrao de tempo ou aumento de desastres.
 
 ### Metodologia
 
